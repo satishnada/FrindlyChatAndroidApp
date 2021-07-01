@@ -1,0 +1,2 @@
+# FrindlyChatAndroidApp
+FrindlyChat Android Application
